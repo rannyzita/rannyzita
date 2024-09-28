@@ -15,7 +15,7 @@
 ## 📈 Meu Progresso:
 
 <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rannyzita-dev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rannyzita&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"/>
 
   ### Linguagens Mais Usadas
 
