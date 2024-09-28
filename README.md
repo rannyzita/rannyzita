@@ -15,19 +15,15 @@
 ## 📈 Meu Progresso:
 
 <br>
-  ## Estatísticas do GitHub de Maria Vitória
-
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rannyzita&show_icons=true&theme=radical)
 
   ### Linguagens Mais Usadas
 
-  #### Linguagens de Programação
-  ![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=rannyzita&layout=compact&hide=html,css&theme=radical)
+  | **Linguagens de Programação** | **Linguagens de Marcação e Estilo** |
+  |-------------------------------|------------------------------------|
+  | ![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=rannyzita&layout=compact&hide=html,css&theme=radical) | ![Linguagens de Marcação e Estilo](https://github-readme-stats.vercel.app/api/top-langs/?username=rannyzita&layout=compact&langs_count=2&hide=python,java,roff&theme=radical) |
 
-  #### Linguagens de Marcação e Estilo
-  ![Linguagens de Marcação e Estilo](https://github-readme-stats.vercel.app/api/top-langs/?username=rannyzita&layout=compact&langs_count=2&hide=python,java,roff&theme=radical)
-
-<br>
+</br>
 
 
  
